@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://nikolayyaroslavcev.github.io/vr-rental/sitemap.xml
